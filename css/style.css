@@ -1,0 +1,15 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: navy;
+	margin-bottom: 10px;
+
+}
+
+.box{
+	min-height: 80px;
+	background-color: #6D6E6A;
+	margin-bottom: 5px;
+
+}
+.lightgreen{
+	background-color: #A6E22B;
+}
